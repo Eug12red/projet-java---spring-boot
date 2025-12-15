@@ -4,12 +4,12 @@
 API REST développée avec Spring Boot pour la gestion des patients, médecins
 et rendez-vous médicaux.
 
-Objectifs :
+# Objectifs :
 - Concevoir une API REST claire et maintenable
 - Appliquer les bonnes pratiques backend modernes
 - Structurer un projet Spring Boot professionnel
 
- Technologies :
+ # Technologies :
 - Spring Boot
 - Spring Web (API REST)
 - Spring Data JPA
@@ -17,7 +17,7 @@ Objectifs :
 - DTO & Validation
 - Gestion globale des erreurs
 
-Fonctionnalités :
+# Fonctionnalités :
 - CRUD sur les entités principales
 - Application de règles métier (pas de double réservation)
 - Architecture en couches (controller, service, repository)
